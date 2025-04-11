@@ -15,16 +15,16 @@
 
 ## 🔒 Áreas de Interesse
 
-**- Pentesting**
-**- Análise de Vulnerabilidades**
-**- Desenvolvimento de Scripts de Automação**
-**- Segurança de Redes**
+- ** Pentesting**
+- ** Análise de Vulnerabilidades**
+- ** Desenvolvimento de Scripts de Automação**
+- ** Segurança de Redes**
 
 ## 🌐 Projetos em Desenvolvimento
 
-**- Scripts para análise de segurança**
-**- Ferramentas de automação para testes**
-**- Bots para Discord**
+- ** Scripts para análise de segurança**
+- ** Ferramentas de automação para testes**
+- ** Bots para Discord**
 
 ## 📫 Entre em Contato
 
