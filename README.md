@@ -1,9 +1,11 @@
 # 👋 Olá, eu sou God!
 
+**Sou um programador iniciante de cybersegurança e desenvolvimento.Eu Estudo da segurança da informação e desenvolvimento de ferramentas de cyber**
+
+## 🧪 Github Stats
+
 ![God-601's Stats](https://github-readme-stats.vercel.app/api?username=God-601&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
 ![God-601's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=God-601&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
-
-**Sou um programador iniciante de cybersegurança e desenvolvimento.Eu Estudo da segurança da informação e desenvolvimento de ferramentas de cyber**
 
 ## 💻 Tecnologias Utilizadas
 
