@@ -3,7 +3,7 @@
 
 ## 💻 Tecnologias Utilizadas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,css,nodejs,python,git,aiscript,bots,discordjs,gamemakerstudio,robloxstudio)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,css,python,git,aiscript,bots,discordjs,gamemakerstudio,robloxstudio)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas de Desenvolvimento
 
