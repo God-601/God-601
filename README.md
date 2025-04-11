@@ -27,4 +27,5 @@
 ## 📫 Entre em Contato
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+### **@god601**
 
