@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou God!
 
-**Sou um programador iniciante de cybersegurança e desenvolvimento.**
-**Eu Estudo da segurança da informação e desenvolvimento de ferramentas de cyber**
+**Sou um programador iniciante em Segurança e desenvolvimento.**
+**Eu Estudo da segurança da informação e desenvolvo ferramentas de Segurança**
 
 ## 🧪 Github Stats
 
